@@ -7,3 +7,7 @@ This is an example portfolio using AWS tech and React.js.
 Git and github
 SSH
 Brew
+HTML
+CSS
+Font Awesome
+Google Fonts
