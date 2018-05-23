@@ -10,3 +10,4 @@ artifacts:
     - favicon.ico
     - styles/main.css
     - images/*
+    - babel.html 
